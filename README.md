@@ -24,7 +24,7 @@ PhishGuard is a real-time tool that analyzes URLs to detect phishing attempts. I
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/mustafah10281/phishguard.git
+    git clone https://github.com/frankline/phishguard.git
     cd phishguard
     ```
 
