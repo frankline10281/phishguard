@@ -172,6 +172,8 @@ def check():
     
     result = check_url_safety(url)
     return jsonify(result)
+# For PythonAnywhere
+application = app
 
 if __name__ == '__main__':
     print("🚀 PhishGuard Advanced Starting...")
